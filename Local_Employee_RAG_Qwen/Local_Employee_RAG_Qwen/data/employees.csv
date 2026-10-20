@@ -1,0 +1,26 @@
+employee_id,name,department,designation,annual_salary_inr,joining_date,office_location,employment_status
+EMP1001,Aarav Sharma,Engineering,Software Engineer,720000,2023-06-12,Bengaluru,Active
+EMP1002,Diya Patel,Human Resources,HR Executive,540000,2022-11-03,Pune,Active
+EMP1003,Kabir Rao,Finance,Financial Analyst,680000,2021-04-19,Bengaluru,Active
+EMP1004,Ananya Iyer,Data Science,Data Scientist,960000,2024-01-08,Chennai,Active
+EMP1005,Vivaan Mehta,Engineering,Senior Software Engineer,1180000,2020-08-24,Hyderabad,Active
+EMP1006,Ishita Nair,Marketing,Marketing Specialist,610000,2023-09-11,Kochi,Active
+EMP1007,Arjun Reddy,IT Support,IT Support Engineer,500000,2022-02-14,Hyderabad,Active
+EMP1008,Meera Das,Operations,Operations Analyst,590000,2021-12-06,Kolkata,Active
+EMP1009,Reyansh Gupta,Sales,Sales Executive,560000,2024-03-18,Delhi,Active
+EMP1010,Saanvi Kulkarni,Data Science,ML Engineer,1050000,2022-07-25,Pune,Active
+EMP1011,Advik Menon,Finance,Accountant,520000,2023-02-01,Kochi,Active
+EMP1012,Myra Singh,Engineering,QA Engineer,650000,2021-10-04,Delhi,Active
+EMP1013,Ibrahim Khan,Human Resources,Recruiter,570000,2022-05-16,Bengaluru,Active
+EMP1014,Aditi Joshi,Product,Product Analyst,810000,2023-01-09,Pune,Active
+EMP1015,Krish Verma,Security,Security Analyst,740000,2020-11-30,Hyderabad,Active
+EMP1016,Tara Bose,Design,UI UX Designer,700000,2024-02-12,Kolkata,Active
+EMP1017,Rohan Shetty,Engineering,DevOps Engineer,880000,2021-06-21,Bengaluru,Active
+EMP1018,Nisha Kapoor,Sales,Account Manager,920000,2019-09-02,Delhi,Active
+EMP1019,Atharv Pillai,Operations,Logistics Coordinator,480000,2022-08-08,Chennai,Active
+EMP1020,Zoya Fernandes,Legal,Legal Associate,830000,2023-05-22,Mumbai,Active
+EMP1021,Dhruv Bhat,Data Science,Data Analyst,640000,2024-04-01,Bengaluru,Active
+EMP1022,Pooja Rao,Marketing,Content Strategist,620000,2020-01-13,Mumbai,Active
+EMP1023,Neil Thomas,IT Support,System Administrator,690000,2021-03-29,Chennai,Active
+EMP1024,Kiara Shah,Product,Product Manager,1320000,2018-07-16,Mumbai,Active
+EMP1025,Manav Sethi,Engineering,Backend Developer,790000,2023-08-07,Delhi,On Leave
